@@ -1,6 +1,6 @@
 ## Financial Analysis Dashboard
 
-![Dashboard Screenshot](IMAGE_LINK)
+![Dashboard Screenshot](https://github.com/henontesfai/Financial-Analysis/blob/main/Sk%C3%A4rmbild%202023-04-08%20122953.png)
 
 This repository contains a Power BI dashboard for financial analysis of a fictional company. The dashboard provides insights into the company's financial performance, including revenue, expenses, and profit across different countries and fiscal years.
 
